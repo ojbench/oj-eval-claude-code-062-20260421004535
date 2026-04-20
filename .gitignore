@@ -5,3 +5,4 @@ code
 test.dat
 *.o
 *.out
+submit_acmoj/__pycache__/
